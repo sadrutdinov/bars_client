@@ -1,5 +1,0 @@
-client\dataloader\DataLoader.class
-client\MainClass.class
-client\model\Contract.class
-client\dataloader\CustomContractDeserializer.class
-client\controller\Controller.class
